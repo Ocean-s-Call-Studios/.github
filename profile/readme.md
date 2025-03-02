@@ -1,6 +1,6 @@
 # We are Ocean's Call 👋  [![Follow on Twitter](https://img.shields.io/twitter/follow/OceansCallDev)](https://x.com/OceansCallDev) [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/company/oceans-call-studios)](https://www.linkedin.com/company/oceans-call-studios)
 
-[![banner](https://github.com/user-attachments/assets/a643f05f-0c7f-4c37-b6f1-30c93cf4841e)](https://www.linkedin.com/company/oceans-call-studios)
+[![banner](https://github.com/user-attachments/assets/e053af27-65ef-4a82-b2ba-8f5f29914e8a)](https://www.linkedin.com/company/oceans-call-studios)
 
 <div align="center">
 <a href="https://www.linkedin.com/company/oceans-call-studios">LinkedIn</a> | <a href="https://x.com/OceansCallDev">Twitter</a> | <a href="https://nightmariners.crd.co/">Nightmariners</a> | <a href="https://github.com/ravenholmn">Kaan</a> | <a href="https://github.com/MFKilic">Furkan</a>
