@@ -3,13 +3,12 @@
 [![banner](https://github.com/user-attachments/assets/e053af27-65ef-4a82-b2ba-8f5f29914e8a)](https://www.linkedin.com/company/oceans-call-studios)
 
 <div align="center">
-<a href="https://www.linkedin.com/company/oceans-call-studios">LinkedIn</a> | <a href="https://x.com/OceansCallDev">Twitter</a> | <a href="https://nightmariners.crd.co/">Nightmariners</a> | <a href="https://github.com/ravenholmn">Kaan</a> | <a href="https://github.com/MFKilic">Furkan</a>
+<a href="https://www.linkedin.com/company/oceans-call-studios">LinkedIn</a> | <a href="https://x.com/OceansCallDev">Twitter</a> | <a href="https://nightmariners.crd.co/">Nightmariners</a>
 </div>
 
 ## Who are we? 👾 
 
 Ocean's Call Studios is an indie game development studio committed to crafting engaging, unique games that prioritize player experience and storytelling. With a focus on innovation and creativity, we strive to bring fresh ideas to life by exploring unique gameplay mechanics and compelling narratives.
-#### The team: <a href="https://github.com/ravenholmn">Kaan Özçelik</a> | <a href="https://github.com/MFKilic">Furkan Kılıç</a>
 
 ## What are we working on? 👨‍💻
 
